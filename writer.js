@@ -29,13 +29,8 @@ function writeHTML(data){
         </div>
       </body>
     </html>
-
-
-
-
-
-
-    `;
+    `
+    return;
 }
 
 module.exports = writeHTML;
